@@ -2,7 +2,7 @@
 
 I'm a student at General Assembly studying Full Stack development in Denver, Colorado.
 
-I'm currently learning JavaScript, HTML, and CSS. The project that I'm working on right now is Yasszee, a RuPaul's Drag Race themed version of Yahtzee.
+I'm currently learning Ract, JavaScript, HTML, and CSS.
 
 When I'm not studying software development, you can find me skiing, studying foreign languages (I'm fluent in Spanish and highly conversational in Italian), or cooking up soemthing delicious in my kitchen (my specialty is homemade pizza and pasta).
 
