@@ -1,6 +1,8 @@
+<img src="https://i.imgur.com/lvvHbXr.jpg" alt="Me smiling in the mountians" height="300" >
+
 ### Hi, I'm Chris
 
-I'm a fullstack engineer about to graduate from General Assembly's software engineering bootcamp and I'd love to join your team! I have experience ranging from creating beautiful frontend React apps to building RESTful APIs with Express and Node.
+I'm a fullstack engineer based in Devner, Colorado about to graduate from General Assembly's software engineering bootcamp and I'd love to join your team! I have experience ranging from creating beautiful frontend React apps to building RESTful APIs with Express and Node.
 
 Before transitioning into software engineering, I spent 13 years working in sales and marketing primarily for e-commerce companies in the furniture and interior design space.
 
