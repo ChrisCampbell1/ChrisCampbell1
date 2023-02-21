@@ -10,7 +10,7 @@ When I'm not studying software development, you can find me skiing, studying for
 
 Here are some stats about what I've been working on:
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscampbell1&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscampbell1&layout=compact)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscampbell1&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscampbell1&layout=compact)
 
 <!--
 **ChrisCampbell1/ChrisCampbell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
