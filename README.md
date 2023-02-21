@@ -9,6 +9,7 @@ I'm open to rolls based in the Denver metro as well as remote opportunities. I a
 When I'm not studying software development, you can find me skiing, studying foreign languages (I'm fluent in Spanish and highly conversational in Italian), or cooking up soemthing delicious in my kitchen (my specialty is homemade pizza and pasta).
 
 Here are some stats about what I've been working on:
+
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscampbell1&show_icons=true&theme=radical)
 
 <!--
