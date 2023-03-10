@@ -1,8 +1,6 @@
 ## Hi, I'm Chris
 
-I'm a fullstack engineer based in Devner, Colorado about to graduate from General Assembly's software engineering bootcamp and I'd love to join your team! I have experience ranging from creating beautiful frontend React apps to building RESTful APIs with Express and Node.
-
-Before transitioning into software engineering, I spent 13 years working in sales and marketing primarily for e-commerce companies in the furniture and interior design space.
+I'm a Fullstack developer based in Denver, Colorado with experience creating beautiful and innovative applications with React.js, JavaScript, and TypeScript. Previous experience managing teams of up to 50 and growing revenue year over year. 9 years experience working in the e-commerce space for venture-backed companies ranging from seed stage to pre-IPO. 3 years entrepreneurial experience as an award winning realtor in the Denver, CO market.
 
 I'm open to rolls based in the Denver metro as well as remote opportunities. I also have the bandwidth to take on freelance development work. Thanks for stopping by and I look forward to working with you!
 
