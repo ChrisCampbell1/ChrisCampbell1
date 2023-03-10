@@ -1,6 +1,6 @@
 ## Hi, I'm Chris
 
-I'm a Fullstack developer based in Denver, Colorado with experience creating beautiful and innovative applications with React.js, JavaScript, and TypeScript. Previous experience managing teams of up to 50 and growing revenue year over year. 9 years experience working in the e-commerce space for venture-backed companies ranging from seed stage to pre-IPO. 3 years entrepreneurial experience as an award winning realtor in the Denver, CO market.
+I'm a Fullstack developer based in Denver, Colorado with experience creating beautiful and innovative applications with React.js, JavaScript, and TypeScript. My previous experience includes managing teams of up to 50 and growing revenue year over year. I have 9 years experience working in the e-commerce space for venture-backed companies ranging from seed stage to pre-IPO. I also have 3 years entrepreneurial experience as an award winning realtor in the Denver, CO market.
 
 I'm open to rolls based in the Denver metro as well as remote opportunities. I also have the bandwidth to take on freelance development work. Thanks for stopping by and I look forward to working with you!
 
